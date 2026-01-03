@@ -1,0 +1,32 @@
+{
+  "last_seen": {
+    "pid": 0,
+    "queue_name": "",
+    "last_seen": 0.000000
+  },
+  "pid": {
+    "pid": 0,
+    "queue_name": "",
+    "last_seen": 0.000000
+  },
+  "queue_name": {
+    "pid": 0,
+    "queue_name": "",
+    "last_seen": 0.000000
+  },
+  "user_1": {
+    "pid": 383841,
+    "queue_name": "/queue_user_1",
+    "last_seen": 1763113044.000000
+  },
+  "user_2": {
+    "pid": 383878,
+    "queue_name": "/queue_user_2",
+    "last_seen": 1763113042.000000
+  },
+  "user_3": {
+    "pid": 0,
+    "queue_name": "",
+    "last_seen": 0.000000
+  }
+}
